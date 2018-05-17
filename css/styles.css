@@ -1,0 +1,25 @@
+.walrus-showing {
+  display: none;
+}
+
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}
+
+.lobster-showing {
+  display: none;
+}
+
+p1 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p1:hover {
+  text-decoration: underline;
+}
